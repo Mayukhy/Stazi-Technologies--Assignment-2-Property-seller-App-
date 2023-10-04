@@ -24,7 +24,7 @@ export default function PropertyTabs({ stateProperties }) {
         ))}
       </Tabs>
 
-      <div className=' h-[175px] overflow-y-auto scroll-smooth '>
+      <div className=' md:h-[175px] h-auto min-h-[150px] overflow-y-auto scroll-smooth '>
         {value === 'Overview' &&
           <p className=' mt-2'>
             Location : {stateProperties?.name}, {stateProperties?.location} is a ready-to-move housing society.
