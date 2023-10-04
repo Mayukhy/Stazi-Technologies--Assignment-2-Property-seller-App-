@@ -1,0 +1,418 @@
+[
+  {
+    "state_Name": "New York",
+    "properties": [
+      {
+        "id": "1",
+        "image": "https://static01.nyt.com/images/2019/09/29/realestate/29selling-NJ/oakImage-1568402320902-superJumbo.jpg",
+        "location": "433 East 13th Street • New York City NY 10009 • East Village",
+        "name": "Eve East Village",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "459",
+        "price": "7,255"
+      },
+      {
+        "id": "2",
+        "image": "https://static.dezeen.com/uploads/2015/11/Shokan-House_Jay-Bargmann_dezeen_1568_1.jpg",
+        "location": "750 Columbus Avenue • New York City NY 10025 • Upper West Side",
+        "name": "West 96th",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "3",
+        "image": "https://media.nestseekers.com/files/Screen_Shot_2022-06-08_at_1.09.43_PM.png",
+        "location": "50 East 28th Street • New York City NY 10016 • NoMad",
+        "name": "Prism",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "4",
+        "image": "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2F77yxd2feqje84x6mmjqvj7bqd3i215&option=N&h=472&permitphotoenlargement=false",
+        "location": "431 West 37th Street • New York City NY 10018 • Hell's Kitchen",
+        "name": "Mantena Apartments",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "5",
+        "image": "https://robbreport.com/wp-content/uploads/2022/12/1-59.jpg?w=1000",
+        "location": "245 East 40th Street • New York City NY 10016 • Midtown East",
+        "name": "Murray Hill Tower",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "6",
+        "image": "https://luxury-houses.net/wp-content/uploads/2021/01/This-8500000-New-York-Home-has-An-Unique-Violin-Shaped-Pool-1.jpg",
+        "location": "600 Washington Street • New York City NY 10014 • West Village",
+        "name": "600 Washington",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "7",
+        "image": "https://www.tollbrothers.com/blog/wp-content/uploads/2019/03/Pierhouse-Living-Room.jpg",
+        "location": "180 Riverside Boulevard • New York City NY 10069 • Upper West Side",
+        "name": "180 Riverside Boulevard",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "8",
+        "image": "https://luxury-houses.net/wp-content/uploads/2022/02/63-Wrights-Mill-Rd-Armonk-NY-10504-15-768x512.jpg",
+        "location": "500 West 23rd Street • New York City NY 10011 • Chelsea",
+        "name": "Ten23",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      },
+      {
+        "id": "9",
+        "image": "https://cdn.thespaces.com/wp-content/uploads/2016/11/112-WAVERLY-PLACE-CH.jpg",
+        "location": "305 West 50th Street • New York City NY 10019 • Hell's Kitchen",
+        "name": "Longacre House Apartments",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "723",
+        "price": "7,255"
+      }
+    ]
+  },
+  {
+    "state_Name": "Mumbai",
+    "properties": [
+      {
+        "id": "10",
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2020/12/14182511/Collage-House-Mumbai-Quirky-unusual-and-yet-supremely-artistic-FB-1200x700-compressed.jpg",
+        "location": "165 rd Street Gandhipuram Gandhipuram",
+        "name": "Property Name 1",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "11",
+        "image": "https://i.dailymail.co.uk/i/newpix/2018/05/16/15/4C4E93F500000578-5736207-image-a-81_1526481188826.jpg",
+        "location": "13 Laxmi Nilayam Nanda Patkar Road",
+        "name": "Property Name 2",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "12",
+        "image": "https://i.dailymail.co.uk/i/newpix/2018/05/16/16/4C51B72900000578-5736207-image-a-132_1526484988629.jpg",
+        "location": "Shop 4 Ymca Mathura Road",
+        "name": "Property Name 3",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "13",
+        "image": "https://images.adsttc.com/media/images/610a/c020/efa7/eb01/6512/d2c5/newsletter/h-dsc3324.jpg?1628094534",
+        "location": "S/1 Gurukrupa Apts Malad",
+        "name": "Property Name 4",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "14",
+        "image": "https://images.adsttc.com/media/images/610a/bc73/c954/fd01/655c/76fb/newsletter/h-dsc1509.jpg?1628093591",
+        "location": "Shop No 2 80/84 Shaida Marg Hazrat Imam Hussain  Dongri",
+        "name": "Property Name 5",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "15",
+        "image": "https://www.indiabullsrealestate.com/blog/wp-content/uploads/2019/04/Blog-Image-1-777x435.jpg",
+        "location": "60 rd Floor Shri Kripa Society P D Marg Dombivli",
+        "name": "Property Name 6",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "16",
+        "image": "https://s.oneroof.co.nz/image/de/17/de176b0901b2914623dbfc7044ab9575.jpg?x-oss-process=image/quality,q_80",
+        "location": "18 rd Floor -e Raj Mahal M.v Road Ramesh More Chowk Andheri",
+        "name": "Property Name 7",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "17",
+        "image": "https://cdn.ratemyagent.co.nz/51c29f03-8a52-ee11-abbf-0619d271b24a",
+        "location": "76 /amangalam Chamber /amangalam Chamber Paud Road",
+        "name": "Property Name 8",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "18",
+        "image": "https://assets-listings.rew.ca/itso_idx/omdreb/40441440/20230712154513/06_1db87a14.jpeg?auto=format&crop=top%2C%20left&fit=fill&fill=blur&ixlib=react-9.7.0&h=500&w=753",
+        "location": "A/7 1st Floor Nandan Chs V Savarkar Marg Mahim",
+        "name": "Property Name 9",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      }
+    ]
+  },
+  {
+    "state_Name": "Paris",
+    "properties": [
+      {
+        "id": "19",
+        "image": "https://www.fowlerhomes.com.au/wp-content/uploads/2023/04/210203-Fowler-Paris-Box-Hill-_0001-FH.jpg",
+        "location": "Eiffel Tower District",
+        "name": "Luxury Apartment near Eiffel Tower",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "20",
+        "image": "https://photo.barnes-international.com/annonces/bms/48/xl/1766595078607948091b4e03.44801304_56be724b2e_1920.webp-original.jpg",
+        "location": "Montmartre",
+        "name": "Cozy Montmartre Studio",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "21",
+        "image": "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F977i215%2F2s36rkw7ayapm865592gkd06p3i215&option=N&h=472&permitphotoenlargement=false",
+        "location": "Le Marais",
+        "name": "Charming Le Marais Loft",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "22",
+        "image": "https://56paris.com/storage/uploads/49ec2c88-d9ba-46d4-94fc-fc25b50f359c/more-houses-in-paris-1024x768.jpg",
+        "location": "Champs-Élysées",
+        "name": "Luxury Condo on Champs-Élysées",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "23",
+        "image": "https://robbreport.com/wp-content/uploads/2021/04/Paris3.jpg?w=1000",
+        "location": "Latin Quarter",
+        "name": "Spacious Latin Quarter Apartment",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "24",
+        "image": "https://s.wsj.net/public/resources/images/B3-DQ297_GETTY__M_20190405145219.jpg",
+        "location": "Louvre Museum Area",
+        "name": "Modern Apartment near Louvre",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "25",
+        "image": "https://static2.mansionglobal.com/production/media/article-images/9a4f3aa3b45da0ca088f932c289a81e2/large_san-francisco-210230_1920.jpg",
+        "location": "Seine River View",
+        "name": "Riverside Luxury Penthouse",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "26",
+        "image": "https://www.sfproperties.com/images/made/images/uploads/property_gallery/Twilights_03_773_542_s_c1.jpg",
+        "location": "Canal Saint-Martin",
+        "name": "Canal Saint-Martin Loft",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "27",
+        "image": "https://media.architecturaldigest.com/photos/5b461bde8c7e812ffa8b160e/16:9/w_2560%2Cc_limit/_DSC4465.jpg",
+        "location": "Opera District",
+        "name": "Opera District Luxury Condo",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      }
+    ]
+  },
+  {
+    "state_Name": "London",
+    "properties": [
+      {
+        "id": "28",
+        "image": "https://media.architecturaldigest.com/photos/61322b96cf69d71d4a0d38a7/16:9/w_2560%2Cc_limit/OWO%2520apartment%2520terrace.jpeg",
+        "location": "London Location 1",
+        "name": "Property Name 1",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "29",
+        "image": "https://i.pinimg.com/736x/3e/13/d3/3e13d37cbbc6459cc605dc401a0617e7.jpg",
+        "location": "London Location 2",
+        "name": "Property Name 2",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "30",
+        "image": "https://api-prod.corelogic.com/trestle/Media/ACTRIS/Property/PHOTO-jpeg/1015628692/1/MTU3Mi8yMjU2LzE2/MTYvNzcyNC8xNjg5NzY1Nzk4/zWV-RDIfRK2L9FJr9cTF6uy8VHrSPJpcmuAtjpJB4SQ?date=2023-09-12",
+        "location": "London Location 3",
+        "name": "Property Name 3",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "31",
+        "image": "https://media.onthemarket.com/properties/11714393/1396066000/image-1-1024x1024.jpg",
+        "location": "London Location 4",
+        "name": "Property Name 4",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "32",
+        "image": "https://i.ytimg.com/vi/P9NBrasQ3x8/maxresdefault.jpg",
+        "location": "London Location 5",
+        "name": "Property Name 5",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "33",
+        "image": "https://static2.mansionglobal.com/production/media/article-images/bfcfeac7d790ae1a436f6fd8329f845f/large_2.30-st-lukes-rd-7430.jpg",
+        "location": "London Location 6",
+        "name": "Property Name 6",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "34",
+        "image": "https://api.architectuul.org/media/58c4ff79-5614-4910-a693-30476d7b5e1b/1312x.jpg",
+        "location": "London Location 7",
+        "name": "Property Name 7",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "35",
+        "image": "https://assets-listings.rew.ca/itso_idx/qdar/40374045/20230227174530/03_6dd28e9b.jpeg?auto=format&crop=top%2C%20left&fit=fill&fill=blur&ixlib=react-9.7.0&h=500&w=753",
+        "location": "London Location 8",
+        "name": "Property Name 8",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      },
+      {
+        "id": "36",
+        "image": "https://cdn1.zoocasa.com/images/listings/ebc0cc83-84c7-4a56-9c34-d4f8f51705d2.jpg",
+        "location": "London Location 9",
+        "name": "Property Name 9",
+        "room_No": "2",
+        "bed_No": "4",
+        "bathRoom_No": "1",
+        "size": "730",
+        "price": "72,786"
+      }
+    ]
+  }
+]
