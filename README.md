@@ -7,8 +7,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+  # Property Seller App
+
   # Technologies used:
   React js, MUI, Tailwind css, Redux-toolkit
+
+  # To run the Application ===>
+1. Download the zip folder or clone the gitRepository with vscode.
+2. Open terminal and type "npm install" for installation of node_modules and then to run the application type "npm run dev"
 
 # SS
 
