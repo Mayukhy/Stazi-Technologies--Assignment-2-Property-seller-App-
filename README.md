@@ -12,7 +12,7 @@ Currently, two official plugins are available:
   # Technologies used:
   React js, MUI, Tailwind css, Redux-toolkit
 
-  # To run the Application ===>
+  # To run the Application :
 1. Download the zip folder or clone the gitRepository with vscode.
 2. Open terminal and type "npm install" for installation of node_modules and then to run the application type "npm run dev"
 
